@@ -46,7 +46,7 @@ Simchi-Levi, David, Philip Kaminsky, and Edith Simchi-Levi. _Designing and Manag
 
 Additional readings may include journal papers and case studies. The following books may also be useful references or complements, and optional readings will be recommended from these texts:
 
-{{% resource_link "c024b05b-fedf-4a76-a4ae-104a87dfe819" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Simchi-Levi, David. {{% resource_link "c024b05b-fedf-4a76-a4ae-104a87dfe819" "_Operations Rules_" %}}. MIT Press, 2010. ISBN: 9780262014748.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262014748) Simchi-Levi, David. [_Operations Rules_](https://mitpress.mit.edu/9780262014748). MIT Press, 2010. ISBN: 9780262014748.
 
 Hopp, Wallace, and Mark Spearman. _Factory Physics_. 2nd ed. McGraw-Hill/Irwin, 2000. ISBN: 9780256247954.
 
